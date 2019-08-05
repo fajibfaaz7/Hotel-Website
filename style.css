@@ -10,7 +10,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 .header-full {
-  background: url(/images/HEADER.jpg);
+  background: url(./images/HEADER.jpg);
   height: 670px;
   position: relative;
   background-size: cover;
