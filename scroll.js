@@ -4,7 +4,7 @@ window.onscroll = function() {
 
 function GoScroll() {
   if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-    document.getElementById("nav-id").style.padding = "10px 5px 10px 5px";
+    document.getElementById("nav-id").style.padding = "0px 5px 0px 5px";
     document.getElementById("brand-nav").style.padding = "10px 0px 0px 0px";
     document.getElementById("nav-id").style.backgroundColor =
       "rgba(232,196,118, 1)";

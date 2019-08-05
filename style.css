@@ -148,3 +148,20 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+.about {
+  background-color: #8c5e35;
+  color: white;
+}
+.about img {
+  border-radius: 100%;
+  padding: 10px;
+}
+.about article {
+  padding: 10px;
+}
+footer div {
+  background-color: black;
+  color: grey;
+  text-align: center;
+  height: 50px;
+}
