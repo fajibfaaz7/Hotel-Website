@@ -83,7 +83,13 @@ body {
   text-align: center;
   cursor: pointer;
   color: white;
+  transition: 0.6s;
 }
+.box:hover {
+  padding: 40px;
+  height: 210px;
+}
+
 .box h6 {
   position: relative;
   z-index: 100;
@@ -118,6 +124,11 @@ body {
   cursor: pointer;
   color: white;
   padding: 10px;
+  transition: 0.4s;
+}
+.box-big:hover {
+  padding: 40px;
+  height: 410px;
 }
 .box-big::after {
   position: absolute;
