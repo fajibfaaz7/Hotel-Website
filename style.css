@@ -95,25 +95,25 @@ body {
   z-index: 100;
 }
 .box1 {
-  background-image: url(/images/RESERVATION.jpeg);
+  background-image: url(./images/RESERVATION.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .box2 {
-  background-image: url(/images/food.jpg);
+  background-image: url(./images/food.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .box3 {
-  background-image: url(/images/specialoffer.jpg);
+  background-image: url(./images/specialoffer.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .box4 {
-  background-image: url(/images/TAKEAWAY.jpg);
+  background-image: url(./images/TAKEAWAY.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -154,7 +154,7 @@ body {
   z-index: 100;
 }
 .big-box1 {
-  background-image: url(/images/mainspecial.jpg);
+  background-image: url(./images/mainspecial.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
